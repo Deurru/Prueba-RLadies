@@ -1,2 +1,2 @@
-# Prueba-RLadies
-Prueba para aprender
+# R-Ladies Madrid Github Workshop
+A simple github repository creation exercise.
